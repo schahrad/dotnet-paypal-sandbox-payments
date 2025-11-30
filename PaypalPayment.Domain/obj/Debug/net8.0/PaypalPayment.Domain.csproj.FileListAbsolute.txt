@@ -1,0 +1,12 @@
+C:\Users\alima\source\repos\Paypal-Payment\PaypalPayment.Domain\bin\Debug\net8.0\PaypalPayment.Domain.deps.json
+C:\Users\alima\source\repos\Paypal-Payment\PaypalPayment.Domain\bin\Debug\net8.0\PaypalPayment.Domain.dll
+C:\Users\alima\source\repos\Paypal-Payment\PaypalPayment.Domain\bin\Debug\net8.0\PaypalPayment.Domain.pdb
+C:\Users\alima\source\repos\Paypal-Payment\PaypalPayment.Domain\obj\Debug\net8.0\PaypalPayment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alima\source\repos\Paypal-Payment\PaypalPayment.Domain\obj\Debug\net8.0\PaypalPayment.Domain.AssemblyInfoInputs.cache
+C:\Users\alima\source\repos\Paypal-Payment\PaypalPayment.Domain\obj\Debug\net8.0\PaypalPayment.Domain.AssemblyInfo.cs
+C:\Users\alima\source\repos\Paypal-Payment\PaypalPayment.Domain\obj\Debug\net8.0\PaypalPayment.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alima\source\repos\Paypal-Payment\PaypalPayment.Domain\obj\Debug\net8.0\PaypalPayment.Domain.sourcelink.json
+C:\Users\alima\source\repos\Paypal-Payment\PaypalPayment.Domain\obj\Debug\net8.0\PaypalPayment.Domain.dll
+C:\Users\alima\source\repos\Paypal-Payment\PaypalPayment.Domain\obj\Debug\net8.0\refint\PaypalPayment.Domain.dll
+C:\Users\alima\source\repos\Paypal-Payment\PaypalPayment.Domain\obj\Debug\net8.0\PaypalPayment.Domain.pdb
+C:\Users\alima\source\repos\Paypal-Payment\PaypalPayment.Domain\obj\Debug\net8.0\ref\PaypalPayment.Domain.dll

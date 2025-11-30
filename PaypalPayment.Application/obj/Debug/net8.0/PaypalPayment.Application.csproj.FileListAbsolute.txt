@@ -1,0 +1,16 @@
+C:\Users\alima\source\repos\Paypal-Payment\PaypalPayment.Application\bin\Debug\net8.0\PaypalPayment.Application.deps.json
+C:\Users\alima\source\repos\Paypal-Payment\PaypalPayment.Application\bin\Debug\net8.0\PaypalPayment.Application.dll
+C:\Users\alima\source\repos\Paypal-Payment\PaypalPayment.Application\bin\Debug\net8.0\PaypalPayment.Application.pdb
+C:\Users\alima\source\repos\Paypal-Payment\PaypalPayment.Application\bin\Debug\net8.0\PaypalPayment.Domain.dll
+C:\Users\alima\source\repos\Paypal-Payment\PaypalPayment.Application\bin\Debug\net8.0\PaypalPayment.Domain.pdb
+C:\Users\alima\source\repos\Paypal-Payment\PaypalPayment.Application\obj\Debug\net8.0\PaypalPayment.Application.csproj.AssemblyReference.cache
+C:\Users\alima\source\repos\Paypal-Payment\PaypalPayment.Application\obj\Debug\net8.0\PaypalPayment.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alima\source\repos\Paypal-Payment\PaypalPayment.Application\obj\Debug\net8.0\PaypalPayment.Application.AssemblyInfoInputs.cache
+C:\Users\alima\source\repos\Paypal-Payment\PaypalPayment.Application\obj\Debug\net8.0\PaypalPayment.Application.AssemblyInfo.cs
+C:\Users\alima\source\repos\Paypal-Payment\PaypalPayment.Application\obj\Debug\net8.0\PaypalPayment.Application.csproj.CoreCompileInputs.cache
+C:\Users\alima\source\repos\Paypal-Payment\PaypalPayment.Application\obj\Debug\net8.0\PaypalPayment.Application.sourcelink.json
+C:\Users\alima\source\repos\Paypal-Payment\PaypalPayment.Application\obj\Debug\net8.0\PaypalPa.97456AAD.Up2Date
+C:\Users\alima\source\repos\Paypal-Payment\PaypalPayment.Application\obj\Debug\net8.0\PaypalPayment.Application.dll
+C:\Users\alima\source\repos\Paypal-Payment\PaypalPayment.Application\obj\Debug\net8.0\refint\PaypalPayment.Application.dll
+C:\Users\alima\source\repos\Paypal-Payment\PaypalPayment.Application\obj\Debug\net8.0\PaypalPayment.Application.pdb
+C:\Users\alima\source\repos\Paypal-Payment\PaypalPayment.Application\obj\Debug\net8.0\ref\PaypalPayment.Application.dll

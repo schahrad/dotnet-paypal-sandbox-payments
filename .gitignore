@@ -1,0 +1,51 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+############################
+# Build artifacts (.NET)
+############################
+bin/
+obj/
+[Bb]uild/
+artifacts/
+
+############################
+# Visual Studio
+############################
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+############################
+# Rider / VS Code / JetBrains
+############################
+.idea/
+.vscode/
+*.swp
+*.sln.iml
+
+############################
+# NuGet
+############################
+*.nupkg
+**/packages/*
+!**/packages/build/
+!**/packages/repositories.config
+
+############################
+# Logs / Temp
+############################
+*.log
+*.tmp
+*.temp
+
+############################
+# Other generated files
+############################
+[Tt]est[Rr]esult*/
+*.VisualState.xml
+TestResult.xml
+
+/.vs

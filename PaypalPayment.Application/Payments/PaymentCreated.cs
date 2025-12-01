@@ -1,16 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace PaypalPayment.Application.Payments
+﻿namespace PaypalPayment.Application.Payments
 {
-    // Result after creating a payment at Mollie
+    // Result after creating a payment at PayPal (order created)
     public class PaymentCreated
     {
         public string Id { get; init; } = default!;
-        public string Status { get; init; } = default!;
-        public Uri CheckoutUrl { get; init; } = default!;
+        public string Status { get; init; } = default!;  
+        public Uri ApprovalUrl { get; init; } = default!;    // PayPal "approve" link
     }
 }

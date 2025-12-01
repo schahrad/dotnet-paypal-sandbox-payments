@@ -10,7 +10,7 @@ namespace PaypalPayment.Application.Usecases.Payments
             _paymentGateway = paymentGateway;
         }
 
-        public Task<PaymentDetails?> GetPaymentDetailsAsync(string id, CancellationToken ct = default)
+        public Task<PaymentDetails?> ExecuteAsync(string id, CancellationToken ct = default)
             => _paymentGateway.GetPaymentAsync(id, ct);
     }
 }

@@ -9,6 +9,7 @@ namespace PaypalPayment.Application.DependencyInjection
         {
             services.AddScoped<CreatePayment>();
             services.AddScoped<GetPayment>();
+
             return services;
         }
     }

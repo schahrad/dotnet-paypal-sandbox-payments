@@ -9,5 +9,9 @@ namespace PaypalPayment.Infrastructure.PayPal.Models
 
         [JsonPropertyName("description")]
         public string? Description { get; set; }
+
+        [JsonPropertyName("payments")]
+        public PayPalPaymentsDto? Payments { get; set; }  
+
     }
 }

@@ -5,5 +5,7 @@
         Task<PaymentCreated> CreatePaymentAsync(PaymentRequest request, CancellationToken cancellationToken = default);
 
         Task<PaymentDetails?> GetPaymentAsync(string paymentId, CancellationToken cancellationToken = default);
+
+        Task<PaymentDetails> CapturePaymentAsync(string paymentId, CancellationToken cancellationToken = default);
     }
 }
